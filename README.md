@@ -1,4 +1,4 @@
-# 基于-easy-project-of-give-mathquestions的简单算数抽奖程序，下面是关于本程序的一些具体信息
+# 基于easy-project-of-give-mathquestions的简单算数抽奖程序，下面是关于本程序的一些具体信息
 导入了几个用于创建JavaFX应用的包，包括Application、Scene、Button、TextArea、HBox和Stage。
 
 导入了java.util.Random，用于生成随机数。
